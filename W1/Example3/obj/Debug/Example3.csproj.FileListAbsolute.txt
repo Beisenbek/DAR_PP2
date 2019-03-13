@@ -1,0 +1,6 @@
+C:\Users\bsnbk\source\repos\W1\Example3\bin\Debug\Example3.exe.config
+C:\Users\bsnbk\source\repos\W1\Example3\bin\Debug\Example3.exe
+C:\Users\bsnbk\source\repos\W1\Example3\bin\Debug\Example3.pdb
+C:\Users\bsnbk\source\repos\W1\Example3\obj\Debug\Example3.csproj.CoreCompileInputs.cache
+C:\Users\bsnbk\source\repos\W1\Example3\obj\Debug\Example3.exe
+C:\Users\bsnbk\source\repos\W1\Example3\obj\Debug\Example3.pdb
