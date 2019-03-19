@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28527.54
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarManager", "FarManager\FarManager.csproj", "{1CAF5BCF-284A-4582-9BE0-E38695B6CC29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawer", "Drawer\Drawer.csproj", "{05A41394-F245-44B9-BD7D-AE135DA1326F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CAF5BCF-284A-4582-9BE0-E38695B6CC29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAF5BCF-284A-4582-9BE0-E38695B6CC29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAF5BCF-284A-4582-9BE0-E38695B6CC29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAF5BCF-284A-4582-9BE0-E38695B6CC29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A41394-F245-44B9-BD7D-AE135DA1326F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A41394-F245-44B9-BD7D-AE135DA1326F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A41394-F245-44B9-BD7D-AE135DA1326F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A41394-F245-44B9-BD7D-AE135DA1326F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00DA15C2-CBA6-489F-8AA3-D52F51603BAF}
+	EndGlobalSection
+EndGlobal
